@@ -1,7 +1,13 @@
 # CLP
-kyungwoon univercity clp barrier-free kiosk
+kyungwoon univercity 
 
-안녕하십니까 저는 경운대학교 소속 이세언입니다. 
-이번 2025 2학기에 캡스톤을 하게되었습니다.
-저희 팀 주제는 키높이 조절 베리어를 만들게 되었습니다.
+Project : Real-time human height estimation algorithm using camera calibration and object detection
+
+depthCamera + YOLO
+
+이번 프로젝트로 자동 키조절 소프트웨어를 설계하게 되었습니다 
+
+
+-알고리즘 흐름도-
+
 
